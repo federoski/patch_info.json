@@ -2,25 +2,24 @@
     "patches": [
         {
             "id": "dlc1_content",
-            "name": "DLC 1 - Contenido Extra",
-            "description": "Añade nuevas escenas y contenido exclusivo",
-            "version": "1.1.0",
+            "name": "Actualizacion 1 - menu extras",
+            "description": "Añade menu extras",
+            "version": "1.5",
             "min_version": "1.0.0",
-            "type": "dlc",
-            "download_url": "https://drive.google.com/uc?export=download&id=1gHAvJn9JCXvoBBsJoMnG8ECwFsWjFSXS",
+            "type": "update",
+            "download_url": "https://drive.google.com/uc?export=download&id=18vBjkNCB_6jGOVhGPyIQ5hIWK9BUYLnn",
             "changes": {
                 "add_files": [
-                    "game/dlc1.rpy"
+                    "game"
                 ],
                 "run_scripts": [
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Nuevas escenas con personajes exclusivos",
-                    "Fondos y música adicionales",
-                    "Logros desbloqueables"
+                    "Menu extras",
                 ]
             }
         }
     ]
+
 }
