@@ -1,26 +1,65 @@
 {
     "patches": [
         {
-            "id": "dlc1_content",
-            "name": "Actualizacion 1 - menu extras",
-            "description": "Añade menu extras",
+            "id": "update_1.5.0",
+            "name": "Actualizacion 1.5",
+            "description": "Arreglos, añadidos y mejoras.",
             "version": "1.5",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://drive.google.com/uc?export=download&id=19TfGW6diGlP-N_jJ4wGHagHv3ZB0Uqt2",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.5.zip",
             "changes": {
-                "add_files": [
+                "replace_files": [
                     "game"
                 ],
+                "add_files": [],
                 "run_scripts": [
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Menu extras",
+                    "Ver cambios en Historial"
                 ]
             }
         }
+    ],
+    "version_history": [
+        {
+            "version": "1.5",
+            "release_date": "11/03/26",
+            "changes": [
+                "Menu extras"
+            ]
+        },
+        {
+            "version": "1.1.1",
+            "release_date": "20/11/25",
+            "changes": [
+                "Menú Extras",
+                "Fichas personaje",
+                "Galería",
+                "Borrar partida",
+                "Y más opciones"
+            ],
+            "patch_notes": "Implementación del menú extras con varias opciones."
+        },
+        {
+            "version": "1.1.0",
+            "release_date": "20/11/25",
+            "changes": [
+                "Menú Expansiones",
+                "Menú Capítulos"
+            ],
+            "patch_notes": "Implementación del menú expansión y del menú capítulos."
+        },
+        {
+            "version": "1.0.0",
+            "release_date": "05/11/25",
+            "changes": [
+                "Versión inicial del juego",
+                "El orfanato completado",
+                "Sistema de logros implementado"
+            ],
+            "patch_notes": "Lanzamiento oficial."
+        }
     ]
-
 }
-
