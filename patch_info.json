@@ -24,43 +24,41 @@
     ],
     "version_history": [
         {
-            "version": "1.6",
+            "version": "1.7",
             "release_date": "11/03/26",
             "changes": [
-                "Menú actos activado"
+                "Menú actos activado",
+                "Juego rehecho",
+                "Menu sistema"
             ]
         },
         {
             "version": "1.1.1",
             "release_date": "20/11/25",
             "changes": [
-                "Menú Extras",
-                "Fichas personaje",
-                "Galería",
                 "Borrar partida",
-                "Y más opciones"
             ],
-            "patch_notes": "Implementación del menú extras con varias opciones."
+            "patch_notes": "Implementación de opción de borrar partidas."
         },
         {
             "version": "1.1.0",
             "release_date": "20/11/25",
             "changes": [
-                "Menú Expansiones",
-                "Menú Capítulos"
+                "Menú extras",
             ],
-            "patch_notes": "Implementación del menú expansión y del menú capítulos."
+            "patch_notes": "Implementación del menú extras."
         },
         {
             "version": "1.0.0",
             "release_date": "05/11/25",
             "changes": [
                 "Versión inicial del juego",
-                "El orfanato completado",
                 "Sistema de logros implementado"
             ],
-            "patch_notes": "Lanzamiento oficial."
+            "patch_notes": "Versión temprana del juego + menú logros."
         }
     ]
 }
+
+
 
