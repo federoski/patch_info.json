@@ -23,9 +23,9 @@
         }
     ],
     "version_history": [
-         {
+        {
             "version": "1.8",
-            "release_date": "11/03/26",
+            "release_date": "2026-03-11",
             "changes": [
                 "Menú almas implementado",
                 "Menu de versión implementado"
@@ -33,7 +33,7 @@
         },
         {
             "version": "1.7",
-            "release_date": "11/03/26",
+            "release_date": "2026-03-11",
             "changes": [
                 "Menú actos activado",
                 "Juego rehecho",
@@ -42,7 +42,7 @@
         },
         {
             "version": "1.1.1",
-            "release_date": "20/11/25",
+            "release_date": "2025-11-20",
             "changes": [
                 "Borrar partida",
                 "tienda contenido implementado"
@@ -51,7 +51,7 @@
         },
         {
             "version": "1.1.0",
-            "release_date": "20/11/25",
+            "release_date": "2025-11-20",
             "changes": [
                 "Menú extras"
             ],
@@ -59,7 +59,7 @@
         },
         {
             "version": "1.0.0",
-            "release_date": "05/11/25",
+            "release_date": "2025-11-05",
             "changes": [
                 "Versión inicial del juego",
                 "Sistema de logros implementado"
@@ -68,7 +68,3 @@
         }
     ]
 }
-
-
-
-
