@@ -1,13 +1,13 @@
 {
     "patches": [
         {
-            "id": "update_1.6.0",
-            "name": "Actualizacion 1.6",
-            "description": "Menu extras activado.",
-            "version": "1.6",
+            "id": "update_1.7.0",
+            "name": "Actualizacion 1.7",
+            "description": "Actos activado.",
+            "version": "1.7",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.5.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.7.zip",
             "changes": {
                 "replace_files": [
                     "game/"
@@ -17,7 +17,7 @@
                     "install_dlc.py"
                 ],
                 "summary": [
-                    "Menú extras activado"
+                    "Menú actos activado"
                 ]
             }
         }
@@ -27,7 +27,7 @@
             "version": "1.6",
             "release_date": "11/03/26",
             "changes": [
-                "Menú extras activado"
+                "Menú actos activado"
             ]
         },
         {
@@ -63,3 +63,4 @@
         }
     ]
 }
+
