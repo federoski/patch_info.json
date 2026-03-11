@@ -36,7 +36,7 @@
             "version": "1.1.1",
             "release_date": "20/11/25",
             "changes": [
-                "Borrar partida"  ← ✅ SIN COMA
+                "Borrar partida"
             ],
             "patch_notes": "Implementación de opción de borrar partidas."
         },
@@ -44,7 +44,7 @@
             "version": "1.1.0",
             "release_date": "20/11/25",
             "changes": [
-                "Menú extras"  ← ✅ SIN COMA
+                "Menú extras"
             ],
             "patch_notes": "Implementación del menú extras."
         },
@@ -59,3 +59,4 @@
         }
     ]
 }
+
