@@ -1,10 +1,10 @@
 {
     "patches": [
         {
-            "id": "update_1.7.0",
-            "name": "Actualizacion 1.7",
-            "description": "Actos activado.",
-            "version": "1.7",
+            "id": "update_1.8.0",
+            "name": "Actualizacion 1.8",
+            "description": "Menú almas implementado.",
+            "version": "1.8",
             "min_version": "1.0.0",
             "type": "update",
             "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.7.zip",
@@ -23,6 +23,13 @@
         }
     ],
     "version_history": [
+         {
+            "version": "1.8",
+            "release_date": "11/03/26",
+            "changes": [
+                "Menú almas implementado",
+            ]
+        },
         {
             "version": "1.7",
             "release_date": "11/03/26",
@@ -36,7 +43,8 @@
             "version": "1.1.1",
             "release_date": "20/11/25",
             "changes": [
-                "Borrar partida"
+                "Borrar partida",
+                "tienda contenido implementado"
             ],
             "patch_notes": "Implementación de opción de borrar partidas."
         },
@@ -59,4 +67,6 @@
         }
     ]
 }
+
+
 
