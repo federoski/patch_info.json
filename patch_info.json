@@ -3,11 +3,11 @@
         {
             "id": "update_1.8.0",
             "name": "Actualizacion 1.8",
-            "description": "Menú almas implementado.",
+            "description": "Número de versión implementado.",
             "version": "1.8",
             "min_version": "1.0.0",
             "type": "update",
-            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.7.zip",
+            "download_url": "https://github.com/federoski/actualizacion-1/releases/download/update/actualizacion1.8.zip",
             "changes": {
                 "replace_files": [
                     "game/"
@@ -28,6 +28,7 @@
             "release_date": "11/03/26",
             "changes": [
                 "Menú almas implementado",
+                "Menu de versión implementado"
             ]
         },
         {
@@ -67,6 +68,7 @@
         }
     ]
 }
+
 
 
 
